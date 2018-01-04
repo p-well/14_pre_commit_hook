@@ -1,7 +1,7 @@
 # Quadratic Equations Solver
 
-This is script for quadratic equations solving with automatic code testing.
-Tests are initiated when user tries to commit changes in repository. Failed tests lead to rejected commit.
+This is script for quadratic equations solving with automatic code testing.<br />
+Tests are initiated when user tries to commit changes in repository. Failed tests lead to rejected commit. <br />
 The commit is enable when only all tests of ```quadratic_equation.py``` are passed.
 
 Pavel Kadantsev, 2017. <br/>
